@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.card {
+	margin: 150px auto;
+	padding: 20px;
+	border: 1px solid;
+	border-radius: 15px;
+	max-width: 400px;
+}
+.card .card__question {
+	font-size: x-large;
+	margin-bottom: 10px;
+}
+.card .card__paragraph {
+	font-size: medium;
+	margin-bottom: 10px;
+}
+.card .card__variants div {
+	margin-bottom: 10px;
+}
+.card .card__votes-counter {
+	margin-bottom: 10px;
+}
